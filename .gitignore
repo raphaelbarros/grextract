@@ -1,6 +1,28 @@
+# Java #
 *.class
 
-# Package Files #
-*.jar
+# Eclipse #
+*.classpath
+*.metadata
+*.checkstyle
+/build/
+/bin/
+.setting/
+local.properties
+
+# Files #
 *.war
 *.ear
+*.db
+*.7z
+*.dmg
+*.gz
+*.iso
+*.rar
+*.tar
+*.zip
+*.pdf
+*.swp
+*.bak
+*.log
+*~
