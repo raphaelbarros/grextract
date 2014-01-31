@@ -2,12 +2,10 @@
 *.class
 
 # Eclipse #
-*.classpath
 *.metadata
 *.checkstyle
 /build/
 /bin/
-.setting/
 local.properties
 
 # Files #
